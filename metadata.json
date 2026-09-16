@@ -1,0 +1,6 @@
+{
+  "name": "KEEN PRO PET Molding",
+  "description": "精普國際次世代極速智慧 PET 吹瓶系統、精密模具與全廠自動化包裝整合方案",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
